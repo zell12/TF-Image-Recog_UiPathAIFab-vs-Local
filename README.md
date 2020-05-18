@@ -39,7 +39,7 @@ This section will show the prerequisites on how to setup the local environment a
 3. Select **'Local'** and check **studio output tab** to see the runtime speed of locally hosted model.
 
 
-![enter image description here](https://lh3.googleusercontent.com/ccGnJGR4P3XtmVTRfxqw-dDgaJ9k_ezi41d0BBWbIB_ltUVbE_2MNjJ5V9QrQLAoPZIf0dhPtYnv4fOFxCSDl6C2m16DuiQgY8-kdter1H3laezZ4nnyRqCw4F44mGLFkK-VeP42HlNyotiw2vp9A0qN19e0viY4GsZziTFZgjJKbcqC5sV8ArwQftldjhaGpLW581rolN6hUHvMx-frlZxCiup5w_mwql76pWbyOWutzIiCDpzj7i_5T8k28ZL3BqCWDBoGjTI0cAW9DYQckkqkiQZYShi-KXjuAslPyV4KmoYcBVexh8v7k6Bh3-GH9p0R4mRyx4P0jnA7lMQm0ALafLdMXoU6NjaA55zMxtvD6Be2kd3tXJoz92e_idDJXxd-qflzLAcpYSd-ocBlNdajGXqKxCb0WTC0rdNa1Lad2YLcmgiJi7leds_-n0Q905cRRcLkiSAvH153PLKnKZAT3YmTy6VEaKj4WZuNKjlMvIXq_g2JiJQnOTC1O1nXslfBC1pzJhHIpvvr2dsYjt6D1yVy6LN5l97RDFZbzr7vea-5ZzzSiWPqejSmsTJSzIyB3LeMUIhEH6R34-klkOTW56rDMIrvwWFim8yJy7HcesFsgrnXQruS5u7VIt5-Dq6lnyG-EitmcXf-LfqqKTCtsdcwVXmlcosM-ASfWlbx3G71SCgppEqPGI_h)
+![enter image description here](https://lh3.googleusercontent.com/pw/ACtC-3fndKfjnHlMBm0MYKmZzFbHWV1k2rGPLyMtayQLOHX_gMtB2KSvfOWDM3XtidBw2rsx55mLG8Tko1Ca1H9dsdjGn3MneagX3RYqzfrjuyRC4j-NwPyFIS-r62K5ZIcbnQ28BzZlhBFUNqjIWqyAvTC8)
 
 
 4. Select **'AI fabric'** and check **studio output tab** to see the runtime speed of locally hosted model.
