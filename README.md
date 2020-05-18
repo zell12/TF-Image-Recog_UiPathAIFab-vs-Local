@@ -56,4 +56,4 @@ This section will show the prerequisites on how to setup the local environment a
 # License
 Copyright (c) Russel Alfeche. All rights reserved.
 
-This project is licensed under the MIT License - see the [LICENSE.MD](LICENSE.MD) file for details
+This project is licensed under the MIT License - see the [LICENSE.MD](LICENSE.md) file for details
